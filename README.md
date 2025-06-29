@@ -44,7 +44,7 @@ This project implements a **50Hz Notch Filter** using the **PIC32 microcontrolle
 - **Blue Line:** Filtered signal (Notch filter output)
 - **Red Line:** Unfiltered signal (raw input)
 
-![Filtered vs Raw Overlapping](images/1ON1.jpeg)
+![Filtered vs Raw Overlapping](Images/1ON1.jpeg)
 
 ---
 
@@ -52,7 +52,7 @@ This project implements a **50Hz Notch Filter** using the **PIC32 microcontrolle
 - **Blue Line:** Filtered signal (Notch filter output)
 - **Red Line:** Unfiltered signal (raw input)
 
-![Filtered vs Raw Separate](images/2_SEPERAT.jpeg)
+![Filtered vs Raw Separate](Images/2_SEPERAT.jpeg)
 
 ---
 
